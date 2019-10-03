@@ -5,5 +5,8 @@
   "url2": "https://github.com/TheHobbitKing/EF-Extension/releases/download/0.3/PublicVersionB.crx",
   "b_url": "https://github.com/TheHobbitKing/EF-Extension/releases/download/0.3/PublicVersionB.crx",
   "b_url2": "https://github.com/TheHobbitKing/EF-Extension/releases/download/0.3/PublicVersionB.crx",
-  "manual": "https://thehobbitking.github.io/EF-Extension/"
+  "manual": "https://thehobbitking.github.io/EF-Extension/",
+  "justtest": {
+      "test1": "testwords"
+  }
 }
